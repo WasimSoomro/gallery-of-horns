@@ -3,10 +3,10 @@ import Header from './Header';
 import Main from './Main';
 import Footer from './Footer';
 import data from './data/data.json';
-import Modal from 'react-bootstrap/Modal';
+// import Modal from 'react-bootstrap/Modal';
 import SelectedBeast from './SelectedBeast';
 import Form from 'react-bootstrap/Form';
-import ListGroup from 'react-bootstrap/ListGroup';
+// import ListGroup from 'react-bootstrap/ListGroup';
 
 
 class App extends React.Component {
